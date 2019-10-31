@@ -1,0 +1,27 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vunguyen88/weatherapp.git"
+  },
+  "author": "from Medium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vunguyen88/weatherapp/issues"
+  },
+  "homepage": "https://github.com/vunguyen88/weatherapp#readme",
+  "dependencies": {
+    "array-unique": "^0.3.2",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "yarg": "^1.0.8",
+    "yargs": "^14.2.0"
+  }
+}
